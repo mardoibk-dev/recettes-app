@@ -20,7 +20,7 @@ Application web de gestion de recettes développée avec **Laravel** et **Bootst
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/TON_USERNAME/recettes-app.git
+git clone (https://github.com/mardoibk-dev/recettes-app.git)
 cd recettes-app
 composer install
 cp .env.example .env
